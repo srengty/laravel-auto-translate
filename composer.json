@@ -1,8 +1,8 @@
 {
-    "name": "ben182/laravel-auto-translate",
+    "name": "srengty/laravel-auto-translate",
     "description": "Automatically translate your language files using Google Translate",
     "keywords": [
-        "ben182",
+        "srengty",
         "laravel-auto-translate"
     ],
     "homepage": "https://github.com/ben182/laravel-auto-translate",
